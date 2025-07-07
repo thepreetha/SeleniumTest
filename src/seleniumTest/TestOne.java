@@ -6,8 +6,9 @@ public class TestOne {
 		// TODO Auto-generated method stub
 
 		
-		WebDriver driver = new ChromeDriver();
-		
+		System.out.println("Learning Git");
+		System.out.println("Going strong on Git");
+		System.out.println("seriously mom");		
 	}
 
 }
